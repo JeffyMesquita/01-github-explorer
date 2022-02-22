@@ -1,2 +1,2 @@
 # 01-github-explorer
- 1 Móduclo Ignite Rocketseat - ReactJs
+ 1 Módulo Ignite Rocketseat - ReactJs
